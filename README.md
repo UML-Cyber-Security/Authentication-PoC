@@ -14,6 +14,7 @@ Authentication method Proof of Concept
 - #### Cracking Speed
   - ##### Rainbow table cracking
   - ##### Bruteforce cracking
+         - ##### Removed because systems can be artificially adjusted and improved by exponential sleep
 
 ## Testing System
 - #### Rainbow Tables
