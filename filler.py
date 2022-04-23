@@ -59,7 +59,7 @@ def main():
         start = time.time()
         if args.populate == 'unsalted':
             populate_unsalted()
-        if args.populate == 'populate':
+        if args.populate == 'salted':
             populate_salted()
         if args.populate == 'encrypted':
             populate_encrypted()
